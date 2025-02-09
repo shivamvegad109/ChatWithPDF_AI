@@ -1,5 +1,5 @@
 ## Overview
-Q&A with PDF is a web application that allows users to upload PDF or DOCX documents, ask questions related to the content of those documents, and explore the embeddings of the content for deeper analysis. The application uses Flask for the backend API and Streamlit for the frontend interface.
+This web application enables users to upload PDF and DOCX documents and ask questions based on their content. It processes documents by extracting text, generating embeddings, and delivering relevant answers through AI-powered search.
 
 ## Features
 - **Upload Document:** Upload a PDF or DOCX file to analyze its content.
@@ -73,15 +73,15 @@ Q&A with PDF is a web application that allows users to upload PDF or DOCX docume
 ## Usage
 
 ### Upload Document
-1. Navigate to the "📂 Upload Document" page.
+1. Navigate to the "Upload Document" page.
 2. Upload a PDF or DOCX file.
-3. Click the "Upload PDF 🚀" button to upload and process the document.
+3. Click the "Upload PDF" button to upload and process the document.
 
 ### Ask Question
-1. Navigate to the "❓ Ask Question" page.
+1. Navigate to the "Ask Question" page.
 2. Enter your question in the input field.
-3. Click the "Get Answer 🪄" button to receive an answer based on the uploaded document's content.
+3. Click the "Get Answer" button to receive an answer based on the uploaded document's content.
 
 ### Show Embeddings
-1. Navigate to the "🔍 Show Embeddings" page.
-2. Click the "Show Embeddings 📊" button to display the embeddings data.
+1. Navigate to the "Show Embeddings" page.
+2. Click the "Show Embeddings" button to display the embeddings data.
