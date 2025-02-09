@@ -85,13 +85,3 @@ Q&A with PDF is a web application that allows users to upload PDF or DOCX docume
 ### Show Embeddings
 1. Navigate to the "🔍 Show Embeddings" page.
 2. Click the "Show Embeddings 📊" button to display the embeddings data.
-
-## Screenshots
-
-### <img src="preview/QA_homepage.png" width="1000"/>
-
-### <img src="preview/QA_uploaddocument.png" width="1000"/>
-
-### <img src="preview/QA_askquestion1.png" width="1000"/>
-
-### <img src="preview/QA_Showembeddings.png" width="1000"/>
